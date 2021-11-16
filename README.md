@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hosedev
-- 👀 I’m interested in Solidity ans Web3
+- 👀 I’m interested in Solidity and Web3
 - 🌱 I’m currently learning Web3
 - 💞️ I’m looking to collaborate on Hosecoin Project
 - 📫 How to reach me Hosecoin.io
